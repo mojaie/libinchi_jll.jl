@@ -1,0 +1,143 @@
+[[libinchi]]
+arch = "aarch64"
+git-tree-sha1 = "83f4b464ca4e53591d8560f36b95f5114959aa6b"
+os = "macos"
+
+    [[libinchi.download]]
+    sha256 = "f6c25542693feab9995e71649071050a8de1d6b5475afdaa34dd1a950ace3c52"
+    url = "https://github.com/mojaie/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.aarch64-apple-darwin.tar.gz"
+[[libinchi]]
+arch = "aarch64"
+git-tree-sha1 = "fe5f3921fe3177719565f3c2bda78cd2ed4db2b6"
+libc = "glibc"
+os = "linux"
+
+    [[libinchi.download]]
+    sha256 = "6abc90c13bc4b1f99710df2bfd839d271034c26d48092b5932eaca8919549e94"
+    url = "https://github.com/mojaie/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.aarch64-linux-gnu.tar.gz"
+[[libinchi]]
+arch = "aarch64"
+git-tree-sha1 = "1974601afcc48523389f2dcbe4c732cd58a9e496"
+libc = "musl"
+os = "linux"
+
+    [[libinchi.download]]
+    sha256 = "a535efd5ba932dda08d53adbef0e1256948b6cb0afcc6f7f6b8f02f8a88f8d3c"
+    url = "https://github.com/mojaie/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.aarch64-linux-musl.tar.gz"
+[[libinchi]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "298864cd3cb298ad8d9c72002433da0f545bab5b"
+libc = "glibc"
+os = "linux"
+
+    [[libinchi.download]]
+    sha256 = "db6a2c5387897095cbacf2804f0de299e31c652f408bb4900d4ef0385416dadf"
+    url = "https://github.com/mojaie/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.armv6l-linux-gnueabihf.tar.gz"
+[[libinchi]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "cc3625d29b05f75215c4cf185d5c81fac9fdade4"
+libc = "musl"
+os = "linux"
+
+    [[libinchi.download]]
+    sha256 = "6bc650abde79708a359723a573935cb4eb0b3945d2f34b822141d25f607d25fb"
+    url = "https://github.com/mojaie/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.armv6l-linux-musleabihf.tar.gz"
+[[libinchi]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "91ae72aa5b156ae21fb7fe1bd23d2efd1eccb22f"
+libc = "glibc"
+os = "linux"
+
+    [[libinchi.download]]
+    sha256 = "703890b6129c08d83c98011426807a1a225ea91370fd8c487b7eb49182afed83"
+    url = "https://github.com/mojaie/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.armv7l-linux-gnueabihf.tar.gz"
+[[libinchi]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d20b3a671ce81641a5b08ec34b167a4f561a3da3"
+libc = "musl"
+os = "linux"
+
+    [[libinchi.download]]
+    sha256 = "47c656d9ab342c40dfbd2ad0a942b1a8cf602ee3e753ac5ce2d0dbdc8e2efea7"
+    url = "https://github.com/mojaie/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.armv7l-linux-musleabihf.tar.gz"
+[[libinchi]]
+arch = "i686"
+git-tree-sha1 = "c287816ff8e5089151fe35fe1d52c2fb392268c5"
+libc = "glibc"
+os = "linux"
+
+    [[libinchi.download]]
+    sha256 = "6a02163183c14bdb8262b3a780c728d8f24a4fc64a5dfa92055349cc66caf32c"
+    url = "https://github.com/mojaie/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.i686-linux-gnu.tar.gz"
+[[libinchi]]
+arch = "i686"
+git-tree-sha1 = "fe3fa77a3596a10c2856550d3200c8ad4eeaafd9"
+libc = "musl"
+os = "linux"
+
+    [[libinchi.download]]
+    sha256 = "cce293c8c5b9100b76be201a18d85e519d969fecf59ada1614e60fe7c6e91541"
+    url = "https://github.com/mojaie/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.i686-linux-musl.tar.gz"
+[[libinchi]]
+arch = "i686"
+git-tree-sha1 = "466d8901607c40763f6c2c432b3420eac568400d"
+os = "windows"
+
+    [[libinchi.download]]
+    sha256 = "c71cfb9f6882ccba53f0bdf96c9c73cb84cb31539ef133535bbc700971eec7f3"
+    url = "https://github.com/mojaie/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.i686-w64-mingw32.tar.gz"
+[[libinchi]]
+arch = "powerpc64le"
+git-tree-sha1 = "43d6ff1a86e499a49d0bfa43bc298e13e12b1e99"
+libc = "glibc"
+os = "linux"
+
+    [[libinchi.download]]
+    sha256 = "0103a259af9ad881ffb4bbcbf1fb8e6d2638b2f73e689b5a09caa44d594c4753"
+    url = "https://github.com/mojaie/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.powerpc64le-linux-gnu.tar.gz"
+[[libinchi]]
+arch = "x86_64"
+git-tree-sha1 = "e5f160b05f196edb0deb5b7eed7d76b5aec34007"
+os = "macos"
+
+    [[libinchi.download]]
+    sha256 = "8360be0e2a9e58e76eb933bdbc28cd4d7618b7c6eb782af6fdb27e1162d67cb5"
+    url = "https://github.com/mojaie/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.x86_64-apple-darwin.tar.gz"
+[[libinchi]]
+arch = "x86_64"
+git-tree-sha1 = "ee239ce8a77d0d38a37942bafe990edcee978547"
+libc = "glibc"
+os = "linux"
+
+    [[libinchi.download]]
+    sha256 = "80bbd231abb9df5e6a958c8ec8860bb896bfbf2094a3232bf9870d1653ae8ccd"
+    url = "https://github.com/mojaie/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.x86_64-linux-gnu.tar.gz"
+[[libinchi]]
+arch = "x86_64"
+git-tree-sha1 = "d837ce62342272fbef37a3677675aaedef25e554"
+libc = "musl"
+os = "linux"
+
+    [[libinchi.download]]
+    sha256 = "cd9831820ccc707af08ccb5f0d22e9c6c49cc82748e36ce0856e0f31a222c41a"
+    url = "https://github.com/mojaie/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.x86_64-linux-musl.tar.gz"
+[[libinchi]]
+arch = "x86_64"
+git-tree-sha1 = "6c4910ea558e521025627b7fedafcc23ded36d90"
+os = "freebsd"
+
+    [[libinchi.download]]
+    sha256 = "3c798e5a1bd501a3e96bcdb553b00e6e877358896a19d033dc4fa3e30064091b"
+    url = "https://github.com/mojaie/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.x86_64-unknown-freebsd.tar.gz"
+[[libinchi]]
+arch = "x86_64"
+git-tree-sha1 = "eb8ade3685f8def20ebbaabd02b2c28d0d41a4c8"
+os = "windows"
+
+    [[libinchi.download]]
+    sha256 = "0d9f7896a9cca4fd05c3185adc96d067a54fe89c86875fafcaa22eb9d8f20b6b"
+    url = "https://github.com/mojaie/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.x86_64-w64-mingw32.tar.gz"
